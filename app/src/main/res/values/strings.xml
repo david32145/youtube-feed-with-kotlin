@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YoutubeClone</string>
+    <string name="BASE_URL">https://www.googleapis.com/youtube/v3/</string>
+    <string name="ACCESS_KEY">AIzaSyAixuIBAFmpPUYsrw3mzmz_k5L86Tk6hD4</string>
+</resources>
