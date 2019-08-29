@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface YoutubeService {
 
-    @GET("search?part=id%2C%20snippet&key=AIzaSyAixuIBAFmpPUYsrw3mzmz_k5L86Tk6hD4")
+    @GET("search?part=id%2C%20snippet&key=%INSERT_YOUR_API_KEY_HERE%")
     fun listAll():Call<MoviesCatalog>
 }
